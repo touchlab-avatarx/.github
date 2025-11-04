@@ -44,7 +44,7 @@ Welcome to the Touchlab Limited Github.  Below you can find links to our public 
 
 ## Robotiq 2F-140
 
-[Robotiq 2F-140 Robot Driver]([https://github.com/touchlab-avatarx/robotiq_robot_driver) - A robot driver for the Robotiq 2F-140 in ROS2
+[Robotiq 2F-140 Robot Driver](https://github.com/touchlab-avatarx/robotiq_robot_driver) - A robot driver for the Robotiq 2F-140 in ROS2
 
 [Robotiq 2F-140 Description](https://github.com/touchlab-avatarx/robotiq_140_description) - A description package for the Robotiq 2F-140 in ROS2
 
